@@ -11,5 +11,5 @@ this webapp was made while following this [youtube tutorial](https://www.youtube
 
 ## Screenshots
 
-![App Screenshot](Screenshot Capture - 2022-10-18 - 00-43-58.png)
+![App Screenshot](https://github.com/tanmaychk/js-currency-coverter/blob/8ff03ce03c61f90166191c9131a2c617dd54e359/Screenshot%20Capture%20-%202022-10-18%20-%2000-59-37.png)
 
